@@ -1,0 +1,28 @@
+_repo: Purpose-in-Prayer_66112
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bounds, Edward M. (Edward McKendree)
+    aliases:
+    - Bounds, E. M. (Edward McKendree)
+    - Bounds, Edward McKendree
+    birthdate: 1835
+    deathdate: 1913
+    gutenberg_agent_id: '52476'
+    url: http://www.gutenberg.org/2009/agents/52476
+    wikipedia: https://en.wikipedia.org/wiki/Edward_McKendree_Bounds
+description: ''
+gutenberg_issued: '2021-08-23'
+identifiers:
+  gutenberg: '66112'
+  lccn: '20020540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Prayer -- Christianity'
+- GITenberg
+title: Purpose in Prayer
+url: http://www.gutenberg.org/ebooks/66112
